@@ -33,4 +33,4 @@
 <hr>
 
 <h2 style='color:blue' align='left'> Espero que este contéudo tenha lhe ajudado de alguma forma! </h2>
-<p> Sinta-se a vontade para realizar sugestões ou comentário sobre o mesmo </p>
+<p> Sinta-se a vontade para realizar sugestões ou comentário sobre o mesmo! </p>
